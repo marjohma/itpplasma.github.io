@@ -1,6 +1,6 @@
 --- 
-layout: _layouts/default
+layout: minimal
 ---
 
 #Test just to see what happens here
-Test layout 3
+Test layout 4
