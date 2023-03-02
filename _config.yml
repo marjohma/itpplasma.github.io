@@ -1,4 +1,6 @@
 #remote_theme: pages-themes/minimal@v0.2.0
+logo: /assets/logo-itp.png
 title: ITPCP Plasma
-description: Hello! We are the Plasma Physics Group at Universiy of Technology Graz
+#logo: /assets/logo-itp.png
+description: Hello! We are the Plasma Physics Group at Universiy of Technology Graz Test 1
 theme: jekyll-theme-minimal
