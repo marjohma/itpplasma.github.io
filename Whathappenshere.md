@@ -1,6 +1,12 @@
---- 
-layout: minimal
+
+
+---
+layout: default
 ---
 
-#Test just to see what happens here
-Test layout 4
+## Welcome to another page
+
+_yay_
+
+[back](./)
+
