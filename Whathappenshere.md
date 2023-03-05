@@ -1,5 +1,5 @@
 ---
-layout: minimal
+permalink: /whh.html
 ---
 ##Welcome to what happens here
 
