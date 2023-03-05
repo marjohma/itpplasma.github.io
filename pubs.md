@@ -2,4 +2,8 @@
 layout: default
 ---
 
-This is where someone eventually will be able to find the list of publications#Test just to see what happens here
+## Publications
+
+_Here you can eventually find a complete list of our publications._
+
+[back](./)
