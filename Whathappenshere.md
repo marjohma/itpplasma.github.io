@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ##Welcome to what happens here
 
 #Test
