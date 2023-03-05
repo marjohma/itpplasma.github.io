@@ -1,4 +1,8 @@
-## Welcome to another page
+---
+layout: default
+---
+
+##Welcome to another page
 
 _yay_
 
