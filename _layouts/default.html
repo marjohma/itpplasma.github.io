@@ -41,9 +41,20 @@
         </ul>
         {% endif %}
         
+        <hr />
         <!--<h4>TEST</h4>-->
+        <a href = ""><h4>Team</h4></a>
         <a href = "publications.html"><h4>Publications</h4></a>
-        <br />
+        <!-- Idee mit "who we are -> Team, what we do -> News/Current Projects/Publications, for students -> lectures/wiki/thesis-->
+        <div class="dropdown">
+          <button class="dropbtn">Dropdown</button>
+          <div class="dropdown-content">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
+        </div>
+        <!--<br />-->
         <hr />
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View ITPCP on GitHub</a></p>
