@@ -1,5 +1,5 @@
 ---
-permalink: /whh.html
+Layout: default
 ---
 
 ## Welcome to what happens here
