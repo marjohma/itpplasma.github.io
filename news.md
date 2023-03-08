@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # News and upcoming events
 
 
