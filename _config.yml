@@ -11,3 +11,11 @@ plugins:
 header pages:
   - about.md
   - index.html  
+
+include: 
+  - _pages.md
+  
+exclude:
+  - team/team_draft.md
+  - news.md
+  - Whathappenshere_old.md
