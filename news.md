@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: newdefault
 ---
 # News and upcoming events
 
