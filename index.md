@@ -7,7 +7,7 @@ layout: newdefault
 This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)
 
 ### News
-[Here you can find our ... news? As well as past and current events?](main/news.md "TUG ITP Plasma News")
+[Here you can find our ... news? As well as past and current events?](main/news "TUG ITP Plasma News")
 
 ### Research
 
@@ -15,7 +15,7 @@ This is a filler space which will eventually be filled with meaningful informati
 -> Research Topics, with link to team members
 -> Publications
 #### Publications
-[I'm an inline-style link with title](/publications.md "TUG ITP Plasma Publications")
+[I'm an inline-style link with title](/publications "TUG ITP Plasma Publications")
 
 ### Team
 [Here you can find our current Team, as well as "alumni researchers"](/team/team.md "TUG ITP Plasma Group")
@@ -31,4 +31,4 @@ This is a filler space which will eventually be filled with meaningful informati
 #### Teaching
 -> Lectures?
 
-<a href = "news.md">This is a test for a link in html</a>
+<a href = "news">This is a test for a link in html</a>
