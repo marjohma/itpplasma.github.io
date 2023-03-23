@@ -7,7 +7,7 @@ layout: newdefault
 This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)
 
 ### News
-[Here you can find our ... news? As well as past and current events?](/news.md "TUG ITP Plasma News")
+[Here you can find our ... news? As well as past and current events?](main/news.md "TUG ITP Plasma News")
 
 ### Research
 
