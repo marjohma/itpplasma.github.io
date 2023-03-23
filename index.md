@@ -30,3 +30,5 @@ This is a filler space which will eventually be filled with meaningful informati
   ##### Completed Theses
 #### Teaching
 -> Lectures?
+
+<a href = "news">This is a test for a link in html</a>
