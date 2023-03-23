@@ -31,4 +31,4 @@ This is a filler space which will eventually be filled with meaningful informati
 #### Teaching
 -> Lectures?
 
-<a href = "news">This is a test for a link in html</a>
+<a href = "news.md">This is a test for a link in html</a>
