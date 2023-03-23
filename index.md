@@ -18,7 +18,7 @@ This is a filler space which will eventually be filled with meaningful informati
 [I'm an inline-style link with title](publications.md "TUG ITP Plasma Publications")
 
 ### Team
-[Here you can find our current Team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")
+[Here you can find our current Team, as well as "alumni researchers"](/team/team.md "TUG ITP Plasma Group")
 
 ### For Student's
 
