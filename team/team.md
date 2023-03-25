@@ -1,6 +1,6 @@
------
+---
 layout: newdefault
------
+---
 
 #Team
 
