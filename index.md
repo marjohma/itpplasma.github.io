@@ -8,7 +8,7 @@ This is a filler space which will eventually be filled with meaningful informati
 
 ### News
 [Here you can find our ... news? As well as past and current events?](/news "TUG ITP Plasma News")
-[Here you can find our ... news? As well as past and current events?](news "TUG ITP Plasma News")
+[Publications again](/publications "TUG ITP Plasma News")
 [Here you can find our ... news? As well as past and current events?](/news.md "TUG ITP Plasma News")
 
 ### Research
@@ -33,4 +33,4 @@ This is a filler space which will eventually be filled with meaningful informati
 #### Teaching
 -> Lectures?
 
-<a href = "news">This is a test for a link in html</a>
+<a href = "/news">This is a test for a link in html</a>
