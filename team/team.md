@@ -1,8 +1,7 @@
 ----
 layout: newdefault
 ----
-
-#Team
+##Team
 
 
 (filler)
