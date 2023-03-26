@@ -21,6 +21,7 @@ This is a filler space which will eventually be filled with meaningful informati
 
 ### Team
 [Here you can find our current Team, as well as "alumni researchers"](/team/team.md "TUG ITP Plasma Group")
+[Here you can find our current Team, as well as "alumni researchers"](/team.md "TUG ITP Plasma Group")
 
 ### For Student's
 
