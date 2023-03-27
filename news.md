@@ -1,6 +1,7 @@
 ---
 layout: newdefault
 ---
+
 # News and upcoming events
 
 
