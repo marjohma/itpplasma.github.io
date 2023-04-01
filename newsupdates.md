@@ -20,7 +20,7 @@ Find a trial for a news post here:
 {% endcomment %}
 
 [Here our very first news post](/2023-04-01-firstnews "Our first news")
-[Here our very first news post](itpplasma.github.io/news/2023-04-01-firstnews "Our first news")
+[Here our very first news post](itpplasma/news/2023-04-01-firstnews "Our first news")
 [Here our very first news post](itpplasma.github.io/2023-04-01-firstnews "Our first news")
 [Here our very first news post](/news/2023/04/01/secondnews "Our first news 3")
 
