@@ -18,8 +18,13 @@ Find a trial for a news post here:
 {% endcomment %}
 
 [Here our very first news post](/2023-04-01-firstnews "Our first news")
+[Here our very first news post](news/2023-04-01-firstnews "Our first news")
+[Here our very first news post](/2023-04-01-firstnews "Our first news")
+
+[another trial](/newsupdates "Our first news")
 
 Or here:
+{% comment %}
 <h3>
   <a class="post-link" href="/news/2023-04-01-firstnews.md">
      Welcome To Jekyll
@@ -37,4 +42,4 @@ Or here:
      Welcome To Jekyll
   </a>
 </h5>
-
+{% endcomment %}
