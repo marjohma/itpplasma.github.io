@@ -10,10 +10,13 @@ _Here you can eventually find our latest news, as well as upcoming events_
 
 Find a trial for a news post here:
 
+{% comment %}
 [Here our very first news post](/news/firstnews "Our first news")
 [Here our very first news post](/news/2023-04-01-firstnews "Our first news")
 [Here our very first news post](/_news/2023-04-01-firstnews "Our first news")
 [Here our very first news post](/_news/2023/04/01/firstnews "Our first news")
+{% endcomment %}
+
 [Here our very first news post](/2023-04-01-firstnews "Our first news")
 
 Or here:
@@ -28,3 +31,10 @@ Or here:
      Welcome To Jekyll
   </a>
 </h5>
+
+<h5>
+  <a class="post-link" href="/_news/2023/04/01/firstnews">
+     Welcome To Jekyll
+  </a>
+</h5>
+
