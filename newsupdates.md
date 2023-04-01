@@ -12,7 +12,9 @@ Find a trial for a news post here:
 
 [Here our very first news post](/news/firstnews "Our first news")
 [Here our very first news post](/news/2023-04-01-firstnews "Our first news")
-[Here our very first news post](/_news/2ß23-04-01-firstnews "Our first news")
+[Here our very first news post](/_news/2023-04-01-firstnews "Our first news")
+[Here our very first news post](/_news/2023/04/01/firstnews "Our first news")
+[Here our very first news post](/2023-04-01-firstnews "Our first news")
 
 Or here:
 <h3>
