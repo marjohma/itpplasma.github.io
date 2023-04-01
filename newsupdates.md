@@ -15,14 +15,13 @@ Find a trial for a news post here:
 [Here our very first news post](/news/2023-04-01-firstnews "Our first news")
 [Here our very first news post](/_news/2023-04-01-firstnews "Our first news")
 [Here our very first news post](/_news/2023/04/01/firstnews "Our first news")
+[Here our very first news post](/news/2023-04-01-firstnews "Our first news 3")
+
 {% endcomment %}
 
 [Here our very first news post](/2023-04-01-firstnews "Our first news")
-[Here our very first news post](/news/2023-04-01-firstnews "Our first news 3")
 
-[another trial](/newsupdates "Our first news X")
-
-[I'm an inline-style link with title](/newsupdates.md "TUG ITP Plasma Publications")
+[another trial](/publications "Our first news X")
 
 Or here:
 {% comment %}
