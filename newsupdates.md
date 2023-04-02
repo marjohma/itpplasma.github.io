@@ -25,6 +25,9 @@ Find a trial for a news post here:
 {% endcomment %}
 [Here our very first news post](/2023-04-01-secondnews "Our first news 3")
 
+[archive]({{ site.base_url }}{% link _news/2023-04-01-firstnews.md %})
+[first post]({{ site.base_url }}{% link _news/2023-04-01-my-firstnews.md %})
+
 [another trial](/publications "Our first news X")
 
 Or here:
