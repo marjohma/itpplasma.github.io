@@ -34,8 +34,7 @@ Find a trial for a news post here:
 Or here:
 
 [Link title]({{ site.baseurl }}{% link pages/2023-04-01-secondnews.md %})
-[Link title]({{ site.baseurl }}{% link _pages/2023-04-02-secondnews.md %})
-
+[Link title]({% link pages/2023-04-01-secondnews.md %})
 
 {% comment %}
 <h3>
