@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: newdefault
+title: first news post
 ---
 
 ## News Section!
