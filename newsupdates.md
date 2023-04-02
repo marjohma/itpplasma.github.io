@@ -24,16 +24,17 @@ Find a trial for a news post here:
 [Here our very first news post](itpplasma.github.io/2023-04-01-firstnews "Our first news")
 [archive]({{ site.base_url }}{% link _news/2023-04-01-firstnews %})
 [first post]({{ site.base_url }}{% link _news/2023-04-01-firstnews %})
-{% endcomment %}
+
 [Here our very first news post](/2023-04-01-secondnews "Our first news 3")
 [Here our very first news post](/2023-04-01-secondnews.md "Our first news 4")
-
+{% endcomment %}
 
 [another trial](/publications "Our first news X")
 
 Or here:
 
 [Link title]({{ site.baseurl }}{% link pages/2023-04-01-secondnews.md %})
+[Link title]({{ site.baseurl }}{% link _pages/2023-04-02-secondnews.md %})
 
 
 {% comment %}
