@@ -5,41 +5,41 @@ layout: newdefault
 
 ----
 
-![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
-
 (We are the Plasma Physics Group at the Institute of Theoretical and Computational Physics Graz.
 This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)
 
-### News
+
+![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
+
+#### News
 <!---[Here you can find our ... news? As well as past and current events?](/news "TUG ITP Plasma News")
 [Publications again](/publications "TUG ITP Plasma News")
 [Here you can find our ... news? As well as past and current events?](/news.md "TUG ITP Plasma News")--->
-[I'm an inline-style link with title](/newsupdates "TUG ITP Plasma Publications")
 
-### Research
 
--> Overview
--> Research Topics, with link to team members
--> Publications
+[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News")
+
+#### Research
+
+Interested in our research in Fusion Plasma Physics? 
+Please follow [this](/research "TUG ITP Plasma Research") for further informations on our research.
+
 #### Publications
-[I'm an inline-style link with title](/publications "TUG ITP Plasma Publications")
+
+[Here you can find our publications](/publications "TUG ITP Plasma Publications")
 
 ### Team
-[Here you can find our current Team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")
-[Here you can find our current Team, as well as "alumni researchers"](/team "TUG ITP Plasma Group")
+
+[Our wonderful team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")
 
 ### For Student's
 
 (As a student myself, I just like the idea of a "for students" section and really appreciate one on other institute's homepages)
 
-#### Thesis 
-  ##### Open Bachelor-, Masters-, PhD-Theses
-  ##### Current Theses
-  ##### Completed Theses
-#### Teaching
--> Lectures?
+Looking for a Bachelor- or Master-Thesis? [Here]({% link students/theses.md %}) you can find some open thesis topics, as well as past and current theses. PhD students, please find further informations [here]({% link students/phd %}).
 
-<!---<a href = "/news">This is a test for a link in html</a>--->
+Our current Lectures, as well as additional teaching materials can be found in [teaching]({% link students/teaching.md %})
+
 
 ### Internal - Viki
 
