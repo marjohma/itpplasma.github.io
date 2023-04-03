@@ -28,11 +28,11 @@ Please follow [this](/research "TUG ITP Plasma Research") for further informatio
 
 [Here you can find our publications](/publications "TUG ITP Plasma Publications")
 
-### Team
+#### Team
 
 [Our wonderful team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")
 
-### For Student's
+#### For Student's
 
 (As a student myself, I just like the idea of a "for students" section and really appreciate one on other institute's homepages)
 
@@ -41,6 +41,6 @@ Looking for a Bachelor- or Master-Thesis? [Here]({% link students/theses.md %}) 
 Our current Lectures, as well as additional teaching materials can be found in [teaching]({% link students/teaching.md %})
 
 
-### Internal - Viki
+#### Internal - Viki
 
 [For Viki only, open tasks](/opentasks "To-Do's")
