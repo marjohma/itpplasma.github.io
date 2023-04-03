@@ -50,3 +50,12 @@ Or here:
   </a>
 </h5>
 {% endcomment %}
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
