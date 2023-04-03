@@ -3,7 +3,7 @@ layout: newdefault
 ---
 ## Tu Graz Plasma Physics
 
-![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group")
+![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){style="display: block; margin: 0 auto"}
 
 (We are the Plasma Physics Group at the Institute of Theoretical and Computational Physics Graz.
 This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)
