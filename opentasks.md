@@ -9,6 +9,7 @@ layout: newdefault
 - [ ] contact details
 - [ ] inputs inputs inputs inputs
 - [ ] tidying up
+- [ ] Highlight ääähhhmmmm Titel-Dinger, sodass des ganze bissl schöner/ übersichtlicher aussieht?
 
 ----
 
