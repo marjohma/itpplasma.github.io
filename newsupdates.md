@@ -10,13 +10,6 @@ _Here you can eventually find our latest news, as well as upcoming events_
 
 Find a trial for a news post here:
 
-{% comment %}
-[Here our very first news post](/news/firstnews "Our first news")
-[Here our very first news post](/news/2023-04-01-firstnews "Our first news")
-[Here our very first news post](/_news/2023-04-01-firstnews "Our first news")
-[Here our very first news post](/_news/2023/04/01/firstnews "Our first news")
-[Here our very first news post](/news/2023-04-01-firstnews "Our first news 3")
-{% endcomment %}
 
 [Here our very first news post](/2023-04-01-firstnews "Our first news")
 {% comment %}
@@ -35,6 +28,9 @@ Or here:
 
 [Link title]({{ site.baseurl }}{% link pages/2023-04-01-secondnews.md %})
 [Link title]({% link pages/2023-04-01-secondnews.md %})
+[This Post]({% link _posts/2023-04-02-this-post.md %})
+[Link title]({{ site.baseurl }}{% link _pages/2023-04-02-secondnews.md %})
+[Link title]({% link _pages/2023-04-02-secondnews.md %})
 
 {% comment %}
 <h3>
