@@ -9,4 +9,4 @@ layout: newdefault
 
 #### Card Trial:
 
-[Link title]({% link card_trial.md %})
+<a href="team/card_trial">Card Trial</a>
