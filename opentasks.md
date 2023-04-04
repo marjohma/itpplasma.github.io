@@ -4,12 +4,13 @@ layout: newdefault
 
 ## Open Tasks:
 
-- [ ] fixed footer
-- [ ] narrow page/window -> navbar shouldn't disappear
-- [ ] contact details
-- [ ] inputs inputs inputs inputs
-- [ ] tidying up
-- [ ] Highlight ääähhhmmmm Titel-Dinger, sodass des ganze bissl schöner/ übersichtlicher aussieht?
+[ ] fixed footer
+[ ] narrow page/window -> navbar shouldn't disappear
+[ ] contact details
+[ ] inputs inputs inputs inputs
+[ ] tidying up
+  [ ] Readme File Thingy
+[ ] Highlight ääähhhmmmm Titel-Dinger, sodass des ganze bissl schöner/ übersichtlicher aussieht?
 
 ----
 
