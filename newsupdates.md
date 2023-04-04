@@ -10,9 +10,8 @@ _Here you can eventually find our latest news, as well as upcoming events_
 
 Find a trial for a news post here:
 
-
-[Here our very first news post](/2023-04-01-firstnews "Our first news")
 {% comment %}
+[Here our very first news post](/2023-04-01-firstnews "Our first news")
 [Here our very first news post](itpplasma/news/2023-04-01-firstnews "Our first news")
 [Here our very first news post](itpplasma.github.io/2023-04-01-firstnews "Our first news")
 [archive]({{ site.base_url }}{% link _news/2023-04-01-firstnews %})
@@ -20,11 +19,9 @@ Find a trial for a news post here:
 
 [Here our very first news post](/2023-04-01-secondnews "Our first news 3")
 [Here our very first news post](/2023-04-01-secondnews.md "Our first news 4")
-{% endcomment %}
-
 [another trial](/publications "Our first news X")
-
 Or here:
+{% endcomment %}
 
 [Link title]({{ site.baseurl }}{% link pages/2023-04-01-secondnews.md %})
 [Link title]({% link pages/2023-04-01-secondnews.md %})
@@ -52,10 +49,10 @@ Or here:
 {% endcomment %}
 
 
-<ul>
+<!---<ul>--->
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul>
+<!---</ul>--->
