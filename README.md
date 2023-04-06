@@ -9,7 +9,9 @@ To this date (06.04.2023), both the github page as well as this readme are yet t
 If you want to add some information or a post to the ITP Plasma Homepage, and you cannot find instructions in this _README_ yet, I'm still working on the structure of the page. In this case, please get in touch with me, ideally at the next meeting or via e-mail: vkeusch@student.tugraz.at Thanks a lot!
 
 
+#### Markdown and HTML
 
+The majority of this Github Page is written in either Markdown (for text and so all of the content) or HTML. 
 
 
 
