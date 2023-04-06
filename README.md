@@ -2,7 +2,7 @@
 ----
 ## Welcome to the (new) Homepage of the Plasma Physicist's at TU Graz!
 
-This _README_ will give a short intoduction to the Github-Pages structure of [itpplasma.github.io](href="index"). It's supposed to help add posts, edit pages or the whole site, and give some explanations to the html-background "code". 
+This _README_ will give a short intoduction to the Github-Pages structure of [itpplasma.github.io](href="https://itpplasma.github.io/"). It's supposed to help add posts, edit pages or the whole site, and give some explanations to the html-background "code". 
 
 To this date (06.04.2023), both the github page as well as this readme are yet to be finished, and if you're reading this (also at a later point) and this sentence here has not been deleted yet, you will find this repository in, well, quite a messy state. I'm very sorry for that, I'll try to fix it as soon as possible!
 
