@@ -28,9 +28,6 @@ Or here:
 [This Post]({% link _posts/2023-04-02-this-post.md %})
 
 
-[This Post 4]({% link _posts/2023-04-02-this-post.md/ %})
-
-
 
 {% comment %}
 <h3>
