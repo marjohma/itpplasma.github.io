@@ -28,7 +28,7 @@ Or here:
 [This Post]({% link _posts/2023-04-02-this-post.md %})
 
 {{ site.baseurl }}{% link pages/2023-04-01-secondnews.md %}
-{{ site.baseurl }}{% link _posts/2023-04-02-this-post.md %}
+[Link titleeeeeee]({{ site.baseurl }}{% post_url 2023-04-01-this-post %})
 
 {% comment %}
 <h3>
