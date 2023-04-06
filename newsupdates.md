@@ -27,6 +27,11 @@ Or here:
 [Link title]({% link pages/2023-04-01-secondnews.md %})
 [This Post]({% link _posts/2023-04-02-this-post.md %})
 
+[Link title 2]({{ site.baseurl }}{% link pages/2023-04-01-secondnews.md/ %})
+[Link title 3]({% link /pages/2023-04-01-secondnews.md %})
+[This Post 4]({% link _posts/2023-04-02-this-post.md/ %})
+
+
 
 {% comment %}
 <h3>
