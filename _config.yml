@@ -16,6 +16,7 @@ header pages:
 
 include: 
   - _pages.md
+  - _redirects
   
 exclude:
   - team/team_draft.md
