@@ -10,3 +10,4 @@ layout: newdefault
 #### Card Trial:
 
 <a href="team/card_trial">Card Trial</a>
+[Card Trial]{% link card.html $}
