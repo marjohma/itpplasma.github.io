@@ -18,15 +18,15 @@
                         Research
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="research">Research Topics</a>
+                        <a class="dropdown-item" href="{% link research.md %}">Research Topics</a>
                         <a class="dropdown-item" href="{% link research.md %}">Research Topics 3</a>
-                        <a class="dropdown-item" href="publications">Publications</a>
-                        <a class="dropdown-item" href="newsupdates">News</a>
+                        <a class="dropdown-item" href="{% link publications.md %}">Publications</a>
+                        <a class="dropdown-item" href="{% link newsupdates.md %}">News</a>
                     </ul>
                 </li>
 
 
-                <li class="nav-item px-3"><a class="nav-link" href="publications">Publications</a></li>
+                <li class="nav-item px-3"><a class="nav-link" href="{% link publications.md %}">Publications</a></li>
             </ul>
             
             <li class="nav-item dropdown px-3">
@@ -34,9 +34,9 @@
                         For Students
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item" href="students/teaching">Teaching</a>
-                        <a class="dropdown-item" href="/students/theses">Bachelor- and Master Theses</a>
-                        <a class="dropdown-item" href="students/phd">PhD Thesis</a>
+                        <a class="dropdown-item" href="{% link students/teaching.md %}">Teaching</a>
+                        <a class="dropdown-item" href="{% /students/theses %}">Bachelor- and Master Theses</a>
+                        <a class="dropdown-item" href="{% students/phd.md %}">PhD Thesis</a>
                     </ul>
                 </li>
             
