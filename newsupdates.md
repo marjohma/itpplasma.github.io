@@ -5,6 +5,7 @@ layout: newdefault
 ## News and Updates
 
 _Here you can eventually find our latest news, as well as current and upcoming events_
+
 ----
 #### Eurofusion:
 [Eurofusion](https://euro-fusion.org/) [News](https://euro-fusion.org/news/)
