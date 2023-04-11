@@ -38,6 +38,7 @@ Find a trial for a news post here:
          {{ post.excerpt }}
         <!---{%- endif -%}--->
         <p>{{ post.content }}</p>
+        <hr>
       {%- endfor -%}
  </ul>
  
