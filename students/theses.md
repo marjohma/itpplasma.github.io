@@ -4,7 +4,7 @@ layout: newdefault
 
 ## Bachelor- and Master-Thesis
 <br/>
-#### Open Bachelor-, Masters-, PhD-Theses
+### Open Bachelor-, Masters-, PhD-Theses
   
   **Topics can include, but are not limited to:**
   
@@ -16,7 +16,6 @@ layout: newdefault
     > Testing scientific software with Python
     > Simulations of mechanical systems and measurements with a high-speed camera (R. Buchholz)
     > Literature study of research for galactic position determination (R. Buchholz)
-
-  
+<br/>
   #### Current Theses
   #### Completed Theses
