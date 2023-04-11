@@ -40,8 +40,3 @@ Please follow [this](/research "TUG ITP Plasma Research") for further informatio
 Looking for a Bachelor- or Master-Thesis? [Here]({% link students/theses.md %}) you can find some open thesis topics, as well as past and current theses. PhD students, please find further informations [here]({% link students/phd.md %}).
 
 Our current Lectures, as well as additional teaching materials can be found in [teaching]({% link students/teaching.md %})
-
-
-#### Internal - Viki
-
-[For Viki only, open tasks](/opentasks "To-Do's")
