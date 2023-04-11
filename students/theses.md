@@ -3,10 +3,7 @@ layout: newdefault
 ---
 
 ## Bachelor- and Master-Thesis
-#  
-
-\
-
+## \newline
 #### Open Bachelor-, Masters-, PhD-Theses
   
   **Topics can include, but are not limited to:**
