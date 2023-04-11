@@ -55,11 +55,9 @@ Find a trial for a news post here:
  
  -----
  
- ## New Project
- 
  Otherwise, you can write a new "tweet" right in here, like this:
  
- ### New Project
+ <h4>New Project</h4>
  
  With new funding thanks to whoever we are now starting to take over the world step by step fusion reactor by fusion reactor.
  For further informations go visit someone.
