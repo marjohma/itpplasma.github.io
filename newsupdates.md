@@ -37,7 +37,7 @@ Find a trial for a news post here:
         <!---{%- if site.show_excerpts -%}--->
          {{ post.excerpt }}
         <!---{%- endif -%}--->
-        <p>{{ content }}</p>
+        <p>{{ post.content }}</p>
       {%- endfor -%}
  </ul>
  </br>
