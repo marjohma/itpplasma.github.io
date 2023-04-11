@@ -11,7 +11,8 @@ _Here you can eventually find our latest news, as well as current and upcoming e
 #### [Eurofusion:](https://euro-fusion.org/)
 [News](https://euro-fusion.org/news/)
 
-#### [Fusion@ÖAW:](https://www.oeaw.ac.at/en/fusionoeaw/fusionoaw) ####### [News](https://www.oeaw.ac.at/en/fusionoeaw/news/news)
+#### [Fusion@ÖAW:](https://www.oeaw.ac.at/en/fusionoeaw/fusionoaw)
+[News](https://www.oeaw.ac.at/en/fusionoeaw/news/news)
 
 ----
 
