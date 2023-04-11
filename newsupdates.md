@@ -5,6 +5,14 @@ layout: newdefault
 ## News and Updates
 
 _Here you can eventually find our latest news, as well as current and upcoming events_
+----
+#### Eurofusion:
+[Eurofusion](https://euro-fusion.org/) [News](https://euro-fusion.org/news/)
+
+#### [Fusion@ÖAW:](https://www.oeaw.ac.at/en/fusionoeaw/fusionoaw)
+[News](https://www.oeaw.ac.at/en/fusionoeaw/news/news)
+----
+
 
 Find a trial for a news post here:
 
