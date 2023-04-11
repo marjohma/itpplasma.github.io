@@ -28,15 +28,19 @@ Find a trial for a news post here:
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts -%}
       <!---<li>--->
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta" style="color:gray">{{ post.date | date: date_format }}</span>
         <h5>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link" style="color_black" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h5>
         <!---{%- if site.show_excerpts -%}--->
-          {{ post.excerpt }}
+         {{ post.excerpt }}
         <!---{%- endif -%}--->
+        {%- if site.show_excerpts -%}
+         {{ post.excerpt }}
+        {%- endif -%}
+         {{ post.excerpt }}
       <!---</li>--->
       {%- endfor -%}
  </ul>
