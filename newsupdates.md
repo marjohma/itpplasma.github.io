@@ -53,13 +53,13 @@ Find a trial for a news post here:
       {%- endfor -%}
  </ul>
  
- ----
+ -----
+ 
+ ## New Project
  
  Otherwise, you can write a new "tweet" right in here, like this:
  
  ### New Project
- ## New Project
- ###New Project
  
  With new funding thanks to whoever we are now starting to take over the world step by step fusion reactor by fusion reactor.
  For further informations go visit someone.
