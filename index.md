@@ -11,7 +11,7 @@ This is a filler space which will eventually be filled with meaningful informati
 
 ![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
 
-#### News
+#### **News**
 <!---[Here you can find our ... news? As well as past and current events?](/news "TUG ITP Plasma News")
 [Publications again](/publications "TUG ITP Plasma News")
 [Here you can find our ... news? As well as past and current events?](/news.md "TUG ITP Plasma News")--->
