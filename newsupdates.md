@@ -40,7 +40,6 @@ Find a trial for a news post here:
         <p>{{ post.content }}</p>
       {%- endfor -%}
  </ul>
- </br>
  
  ----
  
