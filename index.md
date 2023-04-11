@@ -12,7 +12,7 @@ This is a filler space which will eventually be filled with meaningful informati
 ![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
 
 #### News
-----
+
 <!---[Here you can find our ... news? As well as past and current events?](/news "TUG ITP Plasma News")
 [Publications again](/publications "TUG ITP Plasma News")
 [Here you can find our ... news? As well as past and current events?](/news.md "TUG ITP Plasma News")--->
@@ -21,7 +21,7 @@ This is a filler space which will eventually be filled with meaningful informati
 [Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News")
 
 #### Research
-----
+
 Interested in our research in Fusion Plasma Physics? 
 Please follow [this](/research "TUG ITP Plasma Research") for further informations on our research.
 
