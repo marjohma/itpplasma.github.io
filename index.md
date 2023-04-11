@@ -27,7 +27,7 @@ Please follow [this](/research "TUG ITP Plasma Research") for further informatio
 #### Publications
 
 <!---[Here you can find our publications](/publications "TUG ITP Plasma Publications")--->
-[ITP Plasma on Zotero](https://www.zotero.org/itpplasma, target="_blank")
+[ITP Plasma on Zotero](https://www.zotero.org/itpplasma)
 
 #### Team
 
