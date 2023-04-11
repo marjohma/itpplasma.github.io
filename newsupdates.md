@@ -14,8 +14,6 @@ Find a trial for a news post here:
 [This Post]({% link _posts/2023-04-02-this-post.md %})
 [Link titleeeeeee]({{ site.baseurl }}{% post_url 2023-04-02-this-post %})
 
-
-
 <ul>
   {% for post in site.posts %}
     <li>
@@ -31,14 +29,14 @@ Find a trial for a news post here:
       {%- for post in site.posts -%}
       <!---<li>--->
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h5>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-        </h3>
-        {%- if site.show_excerpts -%}
+        </h5>
+        <!---{%- if site.show_excerpts -%}--->
           {{ post.excerpt }}
-        {%- endif -%}
+        <!---{%- endif -%}--->
       <!---</li>--->
       {%- endfor -%}
  </ul>
