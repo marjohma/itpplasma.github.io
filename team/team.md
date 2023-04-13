@@ -13,4 +13,4 @@ layout: newdefault
 
 
 #### Member Trial:
-[Example Member]({% link team/_members/ExamplePerson.md %})
+
