@@ -12,6 +12,8 @@ layout: newdefault
   [ ] Readme File Thingy
 [ ] Highlight ääähhhmmmm Titel-Dinger, sodass des ganze bissl schöner/ übersichtlicher aussieht?
 
+Letzte 3 Publikationen unter dem link bei index
+
 ----
 
 ## Resources
