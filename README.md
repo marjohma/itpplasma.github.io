@@ -1,6 +1,4 @@
 # itpplasma.github.io
-
-[![pages-build-deployment](https://github.com/itpplasma/itpplasma.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/itpplasma/itpplasma.github.io/actions/workflows/pages/pages-build-deployment)
 ----
 ## Welcome to the (new) Homepage of the Plasma Physicist's at TU Graz!
 
@@ -40,5 +38,5 @@ Comparing [itpplasma.github.io on Github](https://github.com/itpplasma/itpplasma
 * [team](https://github.com/itpplasma/itpplasma.github.io/tree/main/team) **TO BE CONTINUED**
 
 
-
 ----
+[![pages-build-deployment](https://github.com/itpplasma/itpplasma.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/itpplasma/itpplasma.github.io/actions/workflows/pages/pages-build-deployment)
