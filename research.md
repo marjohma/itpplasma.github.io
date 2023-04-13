@@ -5,6 +5,7 @@ layout: newdefault
 ## Research
 
 <img align="left" width="200" height="200" margin-right:20px src="/assets/Bilder/aug30835_rmp_homepage.png">
+<img align="right" width="200" height="200" style="vertical-align:middle;margin:0px 50px src="/assets/Bilder/aug30835_rmp_homepage.png">
 Coupled dynamics of charged particles with electromagnetic fields are crucial for the theoretical understanding of nuclear fusion devices, where hot plasmas are confined in strong magnetic fields. Of particular importance for future fusion reactors are transport processes related to particle dynamics, propagation of waves and their resonant and non-resonant interaction with the plasma. These transport phenomena are governed by either fluid equations (MHD) or by kinetic equations (Boltzmann-Equation with Coulomb collision operator.
 
   <!---![Let's include a picture](/assets/Bilder/aug30835_rmp_homepage.png "Test"){:style="display:block; margin-left:auto; margin-right:auto"}--->
@@ -12,4 +13,4 @@ Coupled dynamics of charged particles with electromagnetic fields are crucial fo
 <img align="right" width="200" height="200" src="/assets/Bilder/w7x_homepage.png">
 In addition, the system is closed by Maxwell's equations for the electromagnetic field. The numerical simulation represents a high dimensional problem where extremely different time and space scales are involved. It has to be solved for toroidal geometry with complex topology including stochasticity of the magnetic field. Typically, those systems cannot be solved without reducing the dimensionality of the problem. This is accomplished by proper averaging procedures and mappings between Poincare cuts.)
 <!---![Testimage<](/assets/Bilder/w7x_homepage.png)--->
-<img align="left" width="200" height="200" margin-right:20px src="/assets/Bilder/aug30835_rmp_homepage.png">
+
