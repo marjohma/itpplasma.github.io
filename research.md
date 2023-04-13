@@ -4,7 +4,7 @@ layout: newdefault
 
 ## Research
 
-<img align="left" width="200" height="200" margin-right:20px src="/assets/Bilder/aug30835_rmp_homepage.png">
+<img align="left" width="200" height="200" src="/assets/Bilder/aug30835_rmp_homepage.png">
 <img align="right" width="200" height="200" style="vertical-align:middle;margin:0px 50px src="/assets/Bilder/aug30835_rmp_homepage.png">
 Coupled dynamics of charged particles with electromagnetic fields are crucial for the theoretical understanding of nuclear fusion devices, where hot plasmas are confined in strong magnetic fields. Of particular importance for future fusion reactors are transport processes related to particle dynamics, propagation of waves and their resonant and non-resonant interaction with the plasma. These transport phenomena are governed by either fluid equations (MHD) or by kinetic equations (Boltzmann-Equation with Coulomb collision operator.
 
