@@ -9,10 +9,10 @@ layout: newdefault
 This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)
 
 
-![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
+<!---![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}--->
 
 
-<!---![The Plasma Physics group at Graz University of Technology](/assets/Team/team.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}--> 
+![The Plasma Physics group at Graz University of Technology](/assets/Team/team.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
 
 #### News
 
