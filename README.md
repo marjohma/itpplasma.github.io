@@ -35,7 +35,7 @@ Comparing [itpplasma.github.io on Github](https://github.com/itpplasma/itpplasma
 * [\_posts](https://github.com/itpplasma/itpplasma.github.io/tree/main/_posts) (see News above)
 * [assets](https://github.com/itpplasma/itpplasma.github.io/tree/main/assets) inlcuding all pictures/images 
 * [students](https://github.com/itpplasma/itpplasma.github.io/tree/main/students) where the student's sections can be found and last but definitely not least
-* [team](https://github.com/itpplasma/itpplasma.github.io/tree/main/team) **TO BE CONTINUED**
+* [team](https://github.com/itpplasma/itpplasma.github.io/tree/main/team) Here you can find the [Team](https://itpplasma.github.io/team/team.html) section. So far, this includes the option of maybe making a "card" for every team member (where then all cards would be displayed on the teams site), or just inluding every person with a picture, some informations about t
 
 
 ----
