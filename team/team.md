@@ -6,11 +6,11 @@ layout: newdefault
 
 ### Christopher Albert
 <!---<img align="right" size="width:15%" style="vertical-align:middle;margin:0px 20px" src="https://itp.tugraz.at/~ert/images/chris.jpg">--->
-<img align="left" size="width:0.1%" style="text-align:left;margin:0px 20px" src="https://itp.tugraz.at/~ert/images/chris.jpg">
+<img align="right" size="width:0.1%" style="text-align:right;margin:0px 20px" src="https://itp.tugraz.at/~ert/images/chris.jpg">
 Head of group
 `DEMO|W7-X|ALPS|Teaching`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae nisl nec nunc lacinia ultricies. Sed euismod, nisl eget aliquam tincidunt, nisl nisl aliquet nisl, eget aliquet nisl ni
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae nisl nec nunc lacinia ultricies. Sed euismod, nisl eget aliquam tincidunt, nisl nisl aliquet nisl, eget aliquet nisl ni;margin:0px 20px
 
 ### Winfried Kernbichler
 <img align="right" size="width:20%" style="vertical-align:middle;margin:0px 20px" src="https://online.tugraz.at/tug_online/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B5E6EB46614DDFCE">
