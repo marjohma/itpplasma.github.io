@@ -12,3 +12,11 @@ Coupled dynamics of charged particles with electromagnetic fields are crucial fo
 <img align="right" width="200" height="200" src="/assets/Bilder/w7x_homepage.png">
 In addition, the system is closed by Maxwell's equations for the electromagnetic field. The numerical simulation represents a high dimensional problem where extremely different time and space scales are involved. It has to be solved for toroidal geometry with complex topology including stochasticity of the magnetic field. Typically, those systems cannot be solved without reducing the dimensionality of the problem. This is accomplished by proper averaging procedures and mappings between Poincare cuts.)
 <!---![Testimage<](/assets/Bilder/w7x_homepage.png)--->
+
+### DEMO
+Aim of this project is to evaluate the current design for RMP coils.
+
+In collaboration with Leonardo Pigatto the current setup for RMP coils in DEMO is investigated.
+The setup aims to use 16(?) coils in a single row in the midplane (the radial location is still part of research).
+The questions we want to answer is, if this setup is actually capable of surpressing edge localized modes.
+Towards this goal we need to create magnetic equilibrium files, which are then used by NEO-2 to compute the torque on the plasma.
