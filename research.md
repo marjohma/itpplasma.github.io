@@ -20,3 +20,8 @@ In collaboration with Leonardo Pigatto the current setup for RMP coils in DEMO i
 The setup aims to use 16(?) coils in a single row in the midplane (the radial location is still part of research).
 The questions we want to answer is, if this setup is actually capable of surpressing edge localized modes.
 Towards this goal we need to create magnetic equilibrium files, which are then used by NEO-2 to compute the torque on the plasma.
+
+
+### Plasma Response to Magnetic Pertubations
+Future fusion reactors built on the tokamak principle, e.g. ITER, are projected to be afflicted by instabilities occuring at the plasma edge. These so-called edge localized modes can be suppressed by disturbing the magnetic equilibrium, confining the plasma, with additional externally generated magnetic fields. However, the exact physical mechanism behind the supression is yet unknown.
+To fully understand the mechanism of the suppression of the edge localized modes,we study the plasma response to magnetic pertubations. For this investigation, we employ kinetic theory which, in contrast to the macroscopic fluid theory. covers more physical processes that are potentially important. With numerical and analytical tools we advance the understanding of the suppression of edge localized modes in tokamak plasmas which is crucial for the safe operation of future reactors.
