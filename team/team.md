@@ -12,7 +12,7 @@ Head of group
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae nisl nec nunc lacinia ultricies. Sed euismod, nisl eget aliquam tincidunt, nisl nisl aliquet nisl, eget aliquet nisl ni;margin:0px 20px
 
 ### Winfried Kernbichler
-<img align="right" size="width:20%" style="vertical-align:right;margin:0px 20px" src="https://online.tugraz.at/tug_online/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B5E6EB46614DDFCE">
+<img align="right" size="width:20%" style="vertical-align:middle;margin:0px 20px" src="https://online.tugraz.at/tug_online/visitenkarte.showImage?pPersonenGruppe=3&pPersonenId=B5E6EB46614DDFCE">
 Former head of group
 `W7-X|Teaching`
 
