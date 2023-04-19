@@ -28,7 +28,7 @@ Former head of group
 Here is a short text about who I am and what's im doing. Maybe some links to my [teaching]{% link students/teaching.md %} or some publication on [Zootero](https://www.zotero.org/itpplasma).
 
 ### Markus Markl
-<img align="right" size="width:25%" style="vertical-align:top;margin:0px 20px" src="/assets/Team/MarkusM.png">
+<img align="right" size="width:55%" style="vertical-align:top;margin:0px 20px" src="/assets/Team/MarkusM.png">
 PhD student
 
 `WPTE|TSVV6+Kineq|W7-X`
