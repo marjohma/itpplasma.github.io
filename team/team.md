@@ -6,7 +6,7 @@ layout: newdefault
 
 ### Christopher Albert
 <!---<img align="right" size="width:15%" style="vertical-align:middle;margin:0px 20px" src="https://itp.tugraz.at/~ert/images/chris.jpg">--->
-<img align="right" size="width:0.1%" style="text-align:right;margin:0px 20px" src="https://itp.tugraz.at/~ert/images/chris.jpg">
+<img align="right" size="width:0.1%" style="text-align:right" src="https://itp.tugraz.at/~ert/images/chris.jpg">
 Head of group
 `DEMO|W7-X|ALPS|Teaching`
 
