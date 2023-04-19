@@ -2,7 +2,7 @@
 layout: newdefault
 ---
 
-## Teaching Summer 2023
+## Teaching Summer Semester
 
 > Programmieren in der Physik: Matlab
 
