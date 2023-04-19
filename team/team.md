@@ -26,3 +26,11 @@ Former head of group
 `W7-X|Teaching`
 
 Here is a short text about who I am and what's im doing. Maybe some links to my [teaching]{% link students/teaching.md %} or some publication on [Zootero](https://www.zotero.org/itpplasma).
+
+### Markus Marks
+<img align="right" size="width:20%" style="vertical-align:middle;margin:0px 20px" src="/assets/Team/MarkusM.png">
+PhD student
+
+`WPTE|TSVV6+Kineq|W7-X`
+
+I'm a PhD student and fellow of the Freidrich Schiedel Foundation of Energy Technology working in the area of Plasma Response to Magnetic Pertubations. Apart from my research, I enjoy listening to and making music. 
