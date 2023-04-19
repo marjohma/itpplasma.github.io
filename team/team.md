@@ -5,7 +5,7 @@ layout: newdefault
 
 
 ### Christopher Albert
-<!---<img align="right" style="float:right;margin:0px 20px;width:10%" src="https://itp.tugraz.at/~ert/images/chris.jpg">--->
+<!---<img align="right" style="vertical-align:middle/top;margin:0px 20px;width:10%" src="https://itp.tugraz.at/~ert/images/chris.jpg">--->
 Head of group
 `DEMO|W7-X|ALPS|Teaching`
 
@@ -28,7 +28,7 @@ Former head of group
 Here is a short text about who I am and what's im doing. Maybe some links to my [teaching]{% link students/teaching.md %} or some publication on [Zootero](https://www.zotero.org/itpplasma).
 
 ### Markus Markl
-<img align="right" style="vertical-align:top;margin:0px 20px;width:12%" src="/assets/Team/MarkusM.png">
+<img align="right" style="float:right;margin:0px 20px;width:12%" src="/assets/Team/MarkusM.png">
 PhD student
 
 `WPTE|TSVV6+Kineq|W7-X`
