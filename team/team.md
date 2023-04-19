@@ -2,7 +2,7 @@
 layout: newdefault
 ---
 ## Team
-
+<br/>
 
 ### Christopher Albert
 <img align="right" style="float:right;margin:0px 20px;width:10%" src="https://itp.tugraz.at/~ert/images/chris.jpg">
