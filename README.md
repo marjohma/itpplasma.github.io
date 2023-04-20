@@ -6,7 +6,7 @@ This _README_ will give a short intoduction to the Github-Pages structure of [it
 
 To this date (20.04.2023), both the github page as well as this readme are yet to be finished, and if you're reading this (also at a later point) and this sentence here has not been deleted yet, you will find this repository in, well, quite a messy state. I'm very sorry for that, I'll try to fix it as soon as possible!
 
-If you want to add some information or a post to the ITP Plasma Homepage, and you cannot find instructions in this _README_ yet, I'm still working on the structure of the ==page==. In this case, please get in touch with me, ideally at the next meeting or via e-mail: vkeusch@student.tugraz.at Thanks a lot!
+If you want to add some information or a post to the ITP Plasma Homepage, and you cannot find instructions in this _README_ yet, I'm still working on the structure of the page. In this case, please get in touch with me, ideally at the next meeting or via e-mail: vkeusch@student.tugraz.at Thanks a lot!
 
 
 #### Markdown and HTML
@@ -22,7 +22,7 @@ Comparing [itpplasma.github.io on Github](https://github.com/itpplasma/itpplasma
 * The "Home" page/starting page (https://itpplasma.github.io/) can be found in [index.md](https://github.com/itpplasma/itpplasma.github.io/blob/main/index.md).
 * [Research](https://itpplasma.github.io/research) is [research.md](https://github.com/itpplasma/itpplasma.github.io/blob/main/research.md). _Here it maybe would be nice if every Topic/Working Group from the Kan Ban could write a few sentences about their research topic, maybe include a few pictures and references to team members and publications if applicable_
 * The Publications link right now leads directly to [itpplasma at Zootero](https://www.zotero.org/itpplasma). So publications.md is currently not in use.
-* ==[News](https://itpplasma.github.io/newsupdates.html)== can be found at [newsupdates.md](https://github.com/itpplasma/itpplasma.github.io/blob/main/newsupdates.md). Depending on what's easier to read and use, you can edit the News directly in there, by maybe just making a new header and writing below, or as it is currently also on display, you can write a seperate "post" for each new News article. The posts can be found in the [\_posts](https://github.com/itpplasma/itpplasma.github.io/tree/main/_posts) directory, where two examples can be found. All the posts are automatically displayed (by the lines 28 to 54 in newsupdates.md) with their whole content in the News-Section. If the news are longer, this can be changed to just displaying the title or the first few sentences, where then the post link leads to the full news entry.
+* [==News==](https://itpplasma.github.io/newsupdates.html)== can be found at [newsupdates.md](https://github.com/itpplasma/itpplasma.github.io/blob/main/newsupdates.md). Depending on what's easier to read and use, you can edit the News directly in there, by maybe just making a new header and writing below, or as it is currently also on display, you can write a seperate "post" for each new News article. The posts can be found in the [\_posts](https://github.com/itpplasma/itpplasma.github.io/tree/main/_posts) directory, where two examples can be found. All the posts are automatically displayed (by the lines 28 to 54 in newsupdates.md) with their whole content in the News-Section. If the news are longer, this can be changed to just displaying the title or the first few sentences, where then the post link leads to the full news entry.
 
 **Folders:**
 
