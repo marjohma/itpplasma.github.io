@@ -10,16 +10,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-header pages:
-  - about.md
-  - index.html  
+#header pages:
+#  - about.md
+#  - index.html  
 
 include: 
-  - _pages.md
+  #- _pages.md
   - _redirects
   - extra.css
   
-exclude:
-  - team/team_draft.md
-  - news.md
-  - Whathappenshere_old.md
+#exclude:
+#  - team/team_draft.md
+#  - news.md
+#  - Whathappenshere_old.md
