@@ -7,7 +7,7 @@ layout: newdefault
   
 **Topics can include, but are not limited to:**
   
-`Prof. Albert / Prof. Kernbichler:`  
+`Prof. Albert / Prof. Kernbichler:`
 * Nuclear Fusion and related topics 
 * Matlab versus Python in Physics and Teaching
 * Matlab - Object Oriented Programming
