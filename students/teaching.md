@@ -2,9 +2,10 @@
 layout: newdefault
 ---
 
-## Teaching Summer Semester
-
-> Programmieren in der Physik: Matlab
+### Winter Term
 
 ----
-### Past Semesters
+
+### Summer Term
+
+> Programmieren in der Physik: Matlab
