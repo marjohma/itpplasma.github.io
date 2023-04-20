@@ -1,25 +1,12 @@
 logo: /assets/logo-itp.png
 title: ITPCP Plasma
 description: Hello! We are the Plasma Physics Group at Universiy of Technology Graz
-#theme: NuwanJ/jekyll-minima-bootstrap-5-boilerplate
 theme: minima
-#remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
-
-#header pages:
-#  - about.md
-#  - index.html  
+  - jekyll-sitemap 
 
 include: 
-  #- _pages.md
   - _redirects
   - extra.css
-  
-#exclude:
-#  - team/team_draft.md
-#  - news.md
-#  - Whathappenshere_old.md
