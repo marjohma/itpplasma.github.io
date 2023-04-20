@@ -5,7 +5,7 @@ layout: newdefault
 <br/>
 
 ### Christopher Albert
-<img align="right" style="float:top;margin:0px 20px;width:11%" src="https://itp.tugraz.at/~ert/images/chris.jpg">
+<!---<img align="right" style="float:top;margin:0px 20px;width:11%" src="https://itp.tugraz.at/~ert/images/chris.jpg">--->
 Head of group  
 `DEMO | W7-X | ALPS | Teaching`
 
@@ -37,4 +37,4 @@ I'm a PhD student and fellow of the Freidrich Schiedel Foundation of Energy Tech
 ### Jonatan Schatzlmayr
 PhD student
 
-I am a PhD student funded by the KKKÖ (Kommission dür die Koordination der Kernfusionsforschung in ÖSterreich). My work deals with the kinetic modelling of ions in fusion devices with realistic collision operators. In my free time, I like to play the piano, do sports and engage in religious activities.
+I am a PhD student funded by the KKKÖ (Kommission für die Koordination der Kernfusionsforschung in Österreich). My work deals with the kinetic modelling of ions in fusion devices with realistic collision operators. In my free time, I like to play the piano, do sports and engage in religious activities.
