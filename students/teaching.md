@@ -2,10 +2,10 @@
 layout: newdefault
 ---
 
-### Winter Term
+## Winter Term
 
 ----
 
-### Summer Term
+## Summer Term
 
 > Programmieren in der Physik: Matlab
