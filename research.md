@@ -13,9 +13,13 @@ Coupled dynamics of charged particles with electromagnetic fields are crucial fo
 In addition, the system is closed by Maxwell's equations for the electromagnetic field. The numerical simulation represents a high dimensional problem where extremely different time and space scales are involved. It has to be solved for toroidal geometry with complex topology including stochasticity of the magnetic field. Typically, those systems cannot be solved without reducing the dimensionality of the problem. This is accomplished by proper averaging procedures and mappings between Poincare cuts.)
 <!---![Testimage<](/assets/Bilder/w7x_homepage.png)--->
 
-### Tokamak physics `TOK` 
+### Stellarator physics `STEL` 
 
 #### 3D MHD equilibria and NTV in EU-DEMO `TOK/DEMO` 
+
+### Tokamak physics `TOK` 
+
+#### 3D magnetohydrodynamic equilibria and neoclassical viscous torque in EU-DEMO `TOK/DEMO` 
 The EUROfusion task on DEMO aims at the design of a demonstrator fusion power plant, currently an upscaled version of the ITER tokamak.
 The of our contribution is to evaluate the current design for error field correction (EFC) coils in terms of neoclassical toroidal viscous (NTV) torque.
 In collaboration with Leonardo Pigatto (Padova) the current setup for EFC coils in DEMO is investigated.
