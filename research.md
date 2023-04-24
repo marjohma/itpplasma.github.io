@@ -15,7 +15,9 @@ In addition, the system is closed by Maxwell's equations for the electromagnetic
 
 ### Stellarator physics `STEL` 
 
-#### 3D MHD equilibria and NTV in EU-DEMO `TOK/DEMO` 
+#### Physics and technology of small stellarators `STEL/ALPS` 
+#### Optimizer metrics for fusion alpha particles `STEL/OPT` 
+#### Resonant effects in Wendelstein-7X `STEL/W7-X` 
 
 ### Tokamak physics `TOK` 
 
