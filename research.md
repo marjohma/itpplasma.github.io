@@ -16,8 +16,20 @@ In addition, the system is closed by Maxwell's equations for the electromagnetic
 ### Stellarator physics `STEL` 
 
 #### Physics and technology of small stellarators `STEL/ALPS` 
-#### Optimizer metrics for fusion alpha particles `STEL/OPT` 
+
+Team: Christopher Albert, Georg Harrer (TU Wien)
+
+#### Optimizer metrics for stellarators `STEL/OPT` 
+
+Our codes: [SIMPLE](https://github.com/itpplasma/SIMPLE), [NEO-RT](https://github.com/itpplasma/NEO-RT), NEO-2
+Other codes: [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT), ROSE, [simsopt](https://github.com/hiddenSymmetries/simsopt)
+Team: Sergei Kasilov, Christopher Albert 
+
 #### Resonant effects in Wendelstein-7X `STEL/W7-X` 
+
+Our codes: KiLCA/QL-BALANCE
+Other codes: [VMEC](https://github.com/PrincetonUniversity/STELLOPT), DKES, HINT
+Team: Winfried Kernbichler, Christopher Albert, Sergei Kasilov, Markus Markl
 
 ### Tokamak physics `TOK` 
 
@@ -27,12 +39,21 @@ The of our contribution is to evaluate the current design for error field correc
 In collaboration with Leonardo Pigatto (Padova) the current setup for EFC coils in DEMO is investigated.
 The current engineering design aims to use coils in a single row in the midplane with various radii.
 The questions we want to answer is, how severe are the side-effects of this setup in terms of braking the plasma rotation via NTV torque.
-Towards this goal we need to create 3D magnetohydrodynamic equilibria, which are then used by NEO-2 to compute the torque on the plasma. Our group is currently responsible for the nonlinear variant of this computation in the code VMEC.
+Towards this goal we need to create 3D magnetohydrodynamic equilibria, which are then used by NEO-2 and [NEO-RT](https://github.com/itpplasma/NEO-RT) to compute the torque on the plasma. Our group is currently responsible for the nonlinear variant of this computation in the code VMEC.
 
+Team: Rico Buchholz, Christopher Albert
+Our codes: NEO-2, [NEO-RT](https://github.com/itpplasma/NEO-RT)
+Other codes: MARS-Q, [VMEC](https://github.com/PrincetonUniversity/STELLOPT)
 
 #### Plasma response to resonant magnetic pertubations `TOK/RMP`
 Future fusion reactors built on the tokamak principle, e.g. ITER, are projected to be afflicted by instabilities occuring at the plasma edge. These so-called edge localized modes can be suppressed by disturbing the magnetic equilibrium, confining the plasma, with additional externally generated magnetic fields. However, the exact physical mechanism behind the supression is yet unknown.
 To fully understand the mechanism of the suppression of the edge localized modes,we study the plasma response to magnetic pertubations. For this investigation, we employ kinetic theory which, in contrast to the macroscopic fluid theory. covers more physical processes that are potentially important. With numerical and analytical tools we advance the understanding of the suppression of edge localized modes in tokamak plasmas which is crucial for the safe operation of future reactors.
 
+Team: Markus Markl, Sergei Kasilov, Patrick Lainer, Rico Buchholz, Christopher Albert
+Our codes: KiLCA/QL-BALANCE, MEPHIT
+Other codes: GPEC
 
 #### Kinetic ions in the plasma edge region `TOK/EDGE`
+Team: Jonatan Schatzlmayr, Patrick Lainer
+
+Our codes: [GORILLA](https://github.com/itpplasma/GORILLA), MEPHIT
