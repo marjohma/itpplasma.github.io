@@ -19,9 +19,9 @@ In addition, the system is closed by Maxwell's equations for the electromagnetic
 
 ### Tokamak physics `TOK` 
 
-#### 3D magnetohydrodynamic equilibria and neoclassical viscous torque in EU-DEMO `TOK/DEMO` 
+#### 3D plasma equilibria and plasma rotation in EU-DEMO `TOK/DEMO` 
 The EUROfusion task on DEMO aims at the design of a demonstrator fusion power plant, currently an upscaled version of the ITER tokamak.
-The of our contribution is to evaluate the current design for error field correction (EFC) coils in terms of neoclassical toroidal viscous (NTV) torque.
+The of our contribution is to evaluate the current design for error field correction (EFC) coils in terms of toroidal rotation braking by neoclassical toroidal viscous (NTV) torque.
 In collaboration with Leonardo Pigatto (Padova) the current setup for EFC coils in DEMO is investigated.
 The current engineering design aims to use coils in a single row in the midplane with various radii.
 The questions we want to answer is, how severe are the side-effects of this setup in terms of braking the plasma rotation via NTV torque.
