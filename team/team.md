@@ -5,7 +5,7 @@ layout: newdefault
 <br/>
 
 ### Christopher Albert
-<!---<img align="right" style="float:top;margin:0px 20px;width:11%" src="https://itp.tugraz.at/~ert/images/chris.jpg">--->
+<img align="right" style="float:top;margin:0px 20px;width:11%" src="https://itp.tugraz.at/~ert/images/chris.jpg">
 Head of group
 
 `TOK/(MST,DEMO) | STEL/(ALPS,OPT,W7X) | EDU/(PLASMA,IT)`
