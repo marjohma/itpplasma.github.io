@@ -55,7 +55,7 @@ Find a trial for a news post here:
  
  -----
  
- Otherwise, you can write a new "tweet" right in here, like this:
+<!---Otherwise, you can write a new "tweet" right in here, like this:--->
  
  <h4>New Project</h4>
  
