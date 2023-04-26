@@ -13,6 +13,8 @@ This is a filler space which will eventually be filled with meaningful informati
 #### News
 
 [Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:black"}
+[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:MidnightBlue"}
+[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:DarkBlue"}
 
 #### Research
 
@@ -27,7 +29,7 @@ Please follow [this](/research "TUG ITP Plasma Research"){:style="color:Midnight
 #### Team
 
 <!---[Our wonderful team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")--->
-[Our wonderful team, as well as "alumni researchers"](/team "TUG ITP Plasma Group"){:style="color:midnightblue}
+[Our wonderful team, as well as "alumni researchers"](/team "TUG ITP Plasma Group"){:style="color:MidnightBlue}
 
 #### For Student's
 
