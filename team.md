@@ -16,7 +16,7 @@ Theoretical plasma physicist with core expertize on Hamiltonian theory and sympl
 Former head of group  
 `STEL/W7X | EDU`
 
-Here is a short text about who I am and what's im doing. Maybe some links to my [teaching]{% link students/teaching.md %} or some publication on [Zotero](https://www.zotero.org/itpplasma). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here is a short text about who I am and what's im doing. Maybe some links to my [teaching]{% link students/teaching.md %} or some publication on [Zotero](https://www.zotero.org/itpplasma). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ### Patrick Lainer
 <img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/PL.png">
