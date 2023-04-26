@@ -12,9 +12,8 @@ This is a filler space which will eventually be filled with meaningful informati
 
 #### News
 
-[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:black"}
 [Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:MidnightBlue"}
-[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:DarkBlue"}
+[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:Blue"}
 
 #### Research
 
@@ -29,11 +28,11 @@ Please follow [this](/research "TUG ITP Plasma Research"){:style="color:Midnight
 #### Team
 
 <!---[Our wonderful team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")--->
-[Our wonderful team, as well as "alumni researchers"](/team "TUG ITP Plasma Group"){:style="color:MidnightBlue}
+[Our wonderful team, as well as "alumni researchers"](/team "TUG ITP Plasma Group"){:style="color:MidnightBlue"}
 
 #### For Student's
 
 
-Looking for a Bachelor- or Master-Thesis? [Here]({% link students/theses.md %}) you can find some open thesis topics, as well as past and current theses. PhD students, please find further informations [here]({% link students/phd.md %}).
+Looking for a Bachelor- or Master-Thesis? [Here]({% link students/theses.md %}){:style="color:MidnightBlue"} you can find some open thesis topics, as well as past and current theses. PhD students, please find further informations [here]({% link students/phd.md %}){:style="color:MidnightBlue"}.
 
-Our current Lectures, as well as additional teaching materials can be found in [teaching]({% link students/teaching.md %})
+Our current Lectures, as well as additional teaching materials can be found in [teaching]({% link students/teaching.md %}){:style="color:MidnightBlue"}.
