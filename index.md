@@ -8,25 +8,16 @@ layout: newdefault
 (We are the Plasma Physics Group at the Institute of Theoretical and Computational Physics Graz.
 This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)
 
-
-<!---![The Plasma Physics group at Graz University of Technology](https://www.tugraz.at/fileadmin/_migrated/pics/4_Plasma.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}--->
-
-
 ![The Plasma Physics group at Graz University of Technology](/assets/Team/team.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
 
 #### News
 
-<!---[Here you can find our ... news? As well as past and current events?](/news "TUG ITP Plasma News")
-[Publications again](/publications "TUG ITP Plasma News")
-[Here you can find our ... news? As well as past and current events?](/news.md "TUG ITP Plasma News")--->
-
-
-[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News")
+[Here you can find our latest news, as well as current and past events.](/newsupdates "TUG ITP Plasma News"){:style="color:black"}
 
 #### Research
 
 Interested in our research in Fusion Plasma Physics? 
-Please follow [this](/research "TUG ITP Plasma Research") for further informations on our research.
+Please follow [this](/research "TUG ITP Plasma Research"){:style="color:MidnightBlue"} for further informations on our research.
 
 #### Publications
 
@@ -36,7 +27,7 @@ Please follow [this](/research "TUG ITP Plasma Research") for further informatio
 #### Team
 
 <!---[Our wonderful team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")--->
-[Our wonderful team, as well as "alumni researchers"](/team "TUG ITP Plasma Group")
+[Our wonderful team, as well as "alumni researchers"](/team "TUG ITP Plasma Group"){:style="color:midnightblue}
 
 #### For Student's
 
