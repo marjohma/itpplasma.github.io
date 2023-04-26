@@ -33,6 +33,7 @@ PhD student
 I'm a PhD student and fellow of the Friedrich Schiedel Foundation of Energy Technology working in the area of Plasma Response to Magnetic Pertubations. Apart from my research, I enjoy listening to and making music.
 
 ### Jonatan Schatzlmayr
+<img align="right" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/jonatan_schatzlmayr.jpg">
 PhD student  
 `TOK/EDGE | STEL/W7X`
 
