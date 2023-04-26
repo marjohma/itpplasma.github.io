@@ -35,7 +35,8 @@ Please follow [this](/research "TUG ITP Plasma Research") for further informatio
 
 #### Team
 
-[Our wonderful team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")
+<!---[Our wonderful team, as well as "alumni researchers"](/team/team "TUG ITP Plasma Group")--->
+[Our wonderful team, as well as "alumni researchers"](/team "TUG ITP Plasma Group")
 
 #### For Student's
 
