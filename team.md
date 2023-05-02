@@ -21,8 +21,8 @@ Here is a short text about who I am and what's im doing. Maybe some links to my 
 ### [Sergiy Kasilov]([https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=B5E6EB46614DDFCE](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=5EA12B560A4DB1D7)){:style="decoration:none;color:black;border:none"}
 `STEL/(OPT,W7X) | TOK/RMP`
 
-<img align="top" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/image.png">  
 ### [Rico Buchholz](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9B3C6F4F10E37223&pPersonenGruppe=3){:style="decoration:none;color:black;border:none"}
+<img align="top" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/image.png">  
 `TOK/(RMP,DEMO)`
   
   
