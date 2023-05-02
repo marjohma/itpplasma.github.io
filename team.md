@@ -22,9 +22,8 @@ Here is a short text about who I am and what's im doing. Maybe some links to my 
 `STEL/(OPT,W7X) | TOK/RMP`
 
 ### [Rico Buchholz](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9B3C6F4F10E37223&pPersonenGruppe=3){:style="decoration:none;color:black;border:none"}
-<img align="top" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/image.png">  
 `TOK/(RMP,DEMO)`
-  
+<img align="top" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/image.png">  
   
 ### [Martin Heyn](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=FD2FD76A0DD19F09){:style="color:black;border:none"}
 <!---<img align="top" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/image.png">--->
