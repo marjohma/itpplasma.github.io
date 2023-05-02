@@ -4,7 +4,7 @@ layout: newdefault
 ## Team
 <br/>
 
-### [Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3){:style="decoratopn:none"}
+### [Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3){:style="decoratopn:none;color:black"}
 <img align="right" style="float:top;margin:0px 20px;width:11%" src="https://itp.tugraz.at/~ert/images/chris.jpg">
 Head of group  
 `TOK/(RMP,DEMO) | STEL/(ALPS,OPT,W7X) | EDU/(PLASMA,IT)`
@@ -27,7 +27,7 @@ Here is a short text about who I am and what's im doing. Maybe some links to my 
 
   
 ### [Martin Heyn](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=FD2FD76A0DD19F09){:style="color:black;border:none"}
-<img align="right" style="float:center;margin:0px 20px;width:11%" src="/assets/Team/image.png">
+<img align="top" style="float:top;margin:0px 20px;width:11%" src="/assets/Team/image.png">
 
   
 ### [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3){:style="color:black;border:none"}
