@@ -1,3 +1,8 @@
+---
+layout: newdefault
+---
+
+
 [New Schemes for Confinement of Fusion Products in Stellarators][[{'creatorType': 'author', 'firstName': 'J.', 'lastName': 'Nührenberg'}, {'creatorType': 'author', 'firstName': 'W. A.', 'lastName': 'Cooper'}, {'creatorType': 'author', 'firstName': 'M. Yu', 'lastName': 'Isaev'}, {'creatorType': 'author', 'firstName': 'M. F.', 'lastName': 'Heyn'}, {'creatorType': 'author', 'firstName': 'V. N.', 'lastName': 'Kalyuzhnyj'}, {'creatorType': 'author', 'firstName': 'S. V.', 'lastName': 'Kasilov'}, {'creatorType': 'author', 'firstName': 'W.', 'lastName': 'Kernbichler'}, {'creatorType': 'author', 'firstName': 'A. Yu', 'lastName': 'Kuyanov'}, {'creatorType': 'author', 'firstName': 'M. I.', 'lastName': 'Mikhailov'}, {'creatorType': 'author', 'firstName': 'V. V.', 'lastName': 'Nemov'}, {'creatorType': 'author', 'firstName': 'M. A.', 'lastName': 'Samitov'}, {'creatorType': 'author', 'firstName': 'V. D.', 'lastName': 'Shafranov'}, {'creatorType': 'author', 'firstName': 'A. A.', 'lastName': 'Skovoroda'}, {'creatorType': 'author', 'firstName': 'A. A.', 'lastName': 'Subbotin'}, {'creatorType': 'author', 'firstName': 'R.', 'lastName': 'Zille'}, {'creatorType': 'author', 'firstName': 'A. V.', 'lastName': 'Zvonkov'}]](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2137508)
 
 [Neoclassical Toroidal Viscosity due to Drift Orbit Resonances][[{'creatorType': 'author', 'firstName': 'Christopher', 'lastName': 'Albert'}]]()
