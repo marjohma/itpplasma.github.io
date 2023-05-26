@@ -26,6 +26,7 @@ Please follow [this](/research "TUG ITP Plasma Research"){:style="color:Blue"} f
 [ITP Plasma on Zotero](https://www.zotero.org/itpplasma)
 
 [Test](/Viki's Trial and Error Ground/pubs/myoutput.md){:style="color:White"}
+[Test](/Viki's Trial and Error Ground/pubs/pubsall_trial.md){:style="color:White"}
 
 #### Team
 
