@@ -1,3 +1,7 @@
+----
+layout: newdefault
+----
+
 [New Schemes for Confinement of Fusion Products in Stellarators](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2137508)
 
 [Neoclassical Toroidal Viscosity due to Drift Orbit Resonances]()
