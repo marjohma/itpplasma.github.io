@@ -2,63 +2,25 @@
 layout: newdefault
 ---
 
-## News and Updates
-
-_Here you can eventually find our latest news, as well as current and upcoming events_
+## News
 
 ----
 
-#### [Eurofusion:](https://euro-fusion.org/)
-[News](https://euro-fusion.org/news/)
-
-#### [Fusion@ÖAW:](https://www.oeaw.ac.at/en/fusionoeaw/fusionoaw)
-[News](https://www.oeaw.ac.at/en/fusionoeaw/news/news)
+[News from EUROfusion](https://euro-fusion.org/news/)
+[News from Fusion@ÖAW](https://www.oeaw.ac.at/en/fusionoeaw/news/news)
 
 ----
 
 
-Find a trial for a news post here:
-
-{% comment %} **These examples below all work**
-[Link title]({{ site.baseurl }}{% link pages/2023-04-01-secondnews.md %})
-[Link title]({% link pages/2023-04-01-secondnews.md %})
-[This Post]({% link _posts/2023-04-02-this-post.md %})
-[Link titleeeeeee]({{ site.baseurl }}{% post_url 2023-04-02-this-post %})
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-{% endcomment %}
-
-
-<ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in site.posts -%}
-      <!---<li>--->
-        <span class="post-meta" style="color:gray">{{ post.date | date: date_format }}</span>
-        <h5>
-          <a class="post-link" style="color_black" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h5>
-        <!---{%- if site.show_excerpts -%}--->
-         {{ post.excerpt }}
-        <!---{%- endif -%}--->
-        <p>{{ post.content }}</p>
-        <hr>
-      {%- endfor -%}
- </ul>
- 
- -----
- 
 <!---Otherwise, you can write a new "tweet" right in here, like this:--->
- 
- <h4>New Project</h4>
- 
- With new funding thanks to whoever we are now starting to take over the world step by step fusion reactor by fusion reactor.
- For further informations go visit someone.
- This is just supposed to be an example text.
+
+#### Visiting Japan
+*Christopher Albert*
+
+6 June 2023
+
+I am currently visiting Japan to collaborate with Shinsuke Satake and Hiroe Igami from the National Institute for Fusion Science (NIFS) on analysis of
+experimental data from the Large Helical Device (LHD) -- the second-largest stellarator in the world after Wendelstein 7-X. Here you can see the visitor's
+center with a poster showing the inside of its vacuum vessel and a happy mascot.
+
+![NIFS](/assets/news/2023-06-NIFS.jpeg "NIFS"){:style="display:block; margin-left:auto; margin-right:auto"}
