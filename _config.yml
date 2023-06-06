@@ -1,12 +1,12 @@
 logo: /assets/logo-itp.png
 title: ITPCP Plasma
-description: Hello! We are the Plasma Physics Group at Universiy of Technology Graz
+description: Plasma Physics Group at Institute of Theoretical and Computational Physics, Graz University of Technology
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap 
+  - jekyll-sitemap
 
-include: 
+include:
   - _redirects
   - extra.css
