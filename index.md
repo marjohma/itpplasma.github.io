@@ -17,7 +17,7 @@ Our research on is on kinetic plasma theory and numerical simulations to support
 
 #### Research
 
-Interested in our research in fusion plasma physics? 
+Interested in our research in fusion plasma physics?
 You can find a summary in the [research](/research "TUG ITP Plasma Research"){:style="color:Blue"} section for further details on our various research topics.
 
 #### Publications
@@ -36,6 +36,6 @@ Here's a list of [current and former group members](/team "TUG ITP Plasma Group"
 
 #### For Students
 
-Looking for a Bachelor or Master's Thesis? [Here]({% link students/theses.md %}){:style="color:Blue"} you can find some open thesis topics, as well as past and current theses. 
-
 Our current lectures, as well as additional teaching materials can be found in [teaching]({% link students/teaching.md %}){:style="color:Blue"}.
+
+Looking for a Bachelor or Master's Thesis? [Here]({% link students/theses.md %}){:style="color:Blue"} you can find some open thesis topics, as well as past and current theses.
