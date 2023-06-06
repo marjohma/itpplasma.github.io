@@ -2,43 +2,52 @@
 layout: newdefault
 ---
 
-## Research
+## Research outline
 
-<img align="left" width="200" height="200" style="vertical-align:middle;margin:0px 20px" src="/assets/Bilder/aug30835_rmp_homepage.png">
 Coupled dynamics of charged particles with electromagnetic fields are crucial for the theoretical understanding of nuclear fusion devices, where hot plasmas are confined in strong magnetic fields. Of particular importance for future fusion reactors are transport processes related to particle dynamics, propagation of waves and their resonant and non-resonant interaction with the plasma. These transport phenomena are governed by either fluid equations (MHD) or by kinetic equations (Boltzmann-Equation with Coulomb collision operator.
 
-  <!---![Let's include a picture](/assets/Bilder/aug30835_rmp_homepage.png "Test"){:style="display:block; margin-left:auto; margin-right:auto"}--->
-  
-<img align="right" width="200" height="200" src="/assets/Bilder/w7x_homepage.png">
 In addition, the system is closed by Maxwell's equations for the electromagnetic field. The numerical simulation represents a high dimensional problem where extremely different time and space scales are involved. It has to be solved for toroidal geometry with complex topology including stochasticity of the magnetic field. Typically, those systems cannot be solved without reducing the dimensionality of the problem. This is accomplished by proper averaging procedures and mappings between Poincare cuts.
-<!---![Testimage<](/assets/Bilder/w7x_homepage.png)--->
+
+Our research is embedded into the international fusion energy research
+programme that aims to develop a fusion power plant. Our main contribution
+are on kinetic models in non-axisymmetric magnetic plasma confinement devices:
+Stellarators and tokamaks with 3D magnetic perturbations. These models help
+to understand how to control the plasma in order to avoid instabilities and
+how to keep energetic particles confined so they can self-heat the plasma.
+
+You can find a list of our publications on [Zotero](https://www.zotero.org/itpplasma).
 
 ----
 
-### Stellarator physics `STEL` 
+## Main topics
 
-#### Physics and technology of small stellarators `STEL/ALPS` 
+----
 
-* Team: Christopher Albert, Georg Harrer (TU Wien)
+### Stellarator physics `STEL`
 
-#### Optimizer metrics for stellarators `STEL/OPT` 
+#### Optimizer metrics for stellarators `STEL/OPT`
 
-* Team: Sergei Kasilov, Christopher Albert 
+* Team: Sergei Kasilov, Christopher Albert
 * Our codes: [SIMPLE](https://github.com/itpplasma/SIMPLE), [NEO-RT](https://github.com/itpplasma/NEO-RT), NEO-2
 * Other codes: [STELLOPT](https://github.com/PrincetonUniversity/STELLOPT), ROSE, [simsopt](https://github.com/hiddenSymmetries/simsopt)
 
 
-#### Resonant effects in Wendelstein-7X `STEL/W7-X` 
+#### Resonant effects in Wendelstein-7X `STEL/W7-X`
 
 * Team: Winfried Kernbichler, Christopher Albert, Sergei Kasilov, Markus Markl
 * Our codes: KiLCA/QL-BALANCE
 * Other codes: [VMEC](https://github.com/PrincetonUniversity/STELLOPT), DKES, HINT
 
+
+#### Physics and technology of small stellarators `STEL/ALPS`
+
+* Team: Christopher Albert, Georg Harrer (TU Wien)
+
 ----
 
-### Tokamak physics `TOK` 
+### Tokamak physics `TOK`
 
-#### 3D plasma equilibria and plasma rotation in EU-DEMO `TOK/DEMO` 
+#### 3D plasma equilibria and plasma rotation in EU-DEMO `TOK/DEMO`
 The EUROfusion task on DEMO aims at the design of a demonstrator fusion power plant, currently an upscaled version of the ITER tokamak.
 The of our contribution is to evaluate the current design for error field correction (EFC) coils in terms of toroidal rotation braking by neoclassical toroidal viscous (NTV) torque.
 In collaboration with Leonardo Pigatto (Padova) the current setup for EFC coils in DEMO is investigated.

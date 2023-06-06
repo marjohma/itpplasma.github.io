@@ -2,6 +2,7 @@
 layout: newdefault
 ---
 ## Team
+![The Plasma Physics group at Graz University of Technology](/assets/Team/team.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
 <br/>
 
 ### [Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3){:style="decoratopn:none;color:black"}

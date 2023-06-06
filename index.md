@@ -9,7 +9,10 @@ We are the Plasma Physics Group at the Institute of Theoretical and Computationa
 Our research on is on kinetic plasma theory and numerical simulations to support the development of future fusion reactors.
 <!---(This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)--->
 
-![The Plasma Physics group at Graz University of Technology](/assets/Team/team.jpg "TUG ITPCP Plasma Group"){:style="display:block; margin-left:auto; margin-right:auto"}
+![Tokamak](/assets/Bilder/aug30835_rmp_homepage.png "Tokamak")
+&emsp;&emsp;&emsp;&emsp;
+![Stellarator](/assets/Bilder/w7x_homepage.png "Stellarator")
+
 
 #### News
 
