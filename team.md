@@ -26,9 +26,10 @@ Senior Researcher
 Theoretical plasma physicist with long experience in theoretical and numerical methods for transport and heating and resonant wave-particle interaction. Contact person for collaboration with Kharkiv Institute of Physics and Technology, Ukraine.
 
 ### [Rico Buchholz](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9B3C6F4F10E37223&pPersonenGruppe=3){:style="decoration:none;color:black;border:none"}
+PostDoc
 `TOK/(RMP,DEMO)`
 <!-- <img align="top" style="float:right;margin:0px 20px;width:11%" src="/assets/Team/image.png">   -->
-PostDoc
+
 
 Theoretical plasma physicist with experience in neoclassical and turbulent transport theory and simulation. Currently maintaining the NEO-2 neoclassical transport code and applications to neoclassical toroidal viscous torque in tokamaks and current drive in stellarators.
 
