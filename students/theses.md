@@ -18,6 +18,3 @@ layout: newdefault
 #### Current Theses
 
 #### Completed Theses
-
-
-TEST
