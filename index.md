@@ -1,11 +1,11 @@
 ---
 layout: newdefault
 ---
-## Tu Graz Plasma Physics
+## Plasma Physics at TU Graz
 
 ----
 
-We are the Plasma Physics Group at the Institute of Theoretical and Computational Physics Graz.
+We are the Plasma Physics group at the Institute of Theoretical and Computational Physics at Graz University of Technology.
 Our research on is on kinetic plasma theory and numerical simulations to support the development of future fusion reactors.
 <!---(This is a filler space which will eventually be filled with meaningful information about the Team, the Research, etc.)--->
 
