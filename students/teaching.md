@@ -4,7 +4,7 @@ layout: newdefault
 
 ## Winter Term (22/23 academic year)  
   
-
+>
 > [Programming in Physics: Advanced MATLAB](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336263) `[Patrick Lainer]`
 
 > [Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=338120) `[Christopher Albert]`
@@ -22,7 +22,7 @@ layout: newdefault
 
 ## Summer Term (22/23 academic year)  
 
-  
+>  
 > [Programmieren in der Physik: Matlab](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=335823) `[Christopher Albert], [Rico Buchholz], [Winfried Kernbichler], [Patrick Lainer], [Johannes Mellak]`
 
 > [Kinetic Theory in Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=334655) `[Christopher Albert]`
