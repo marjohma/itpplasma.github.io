@@ -21,12 +21,12 @@ layout: newdefault
 
 ## Summer Term (22/23 academic year)
 
-> [Programmieren in der Physik: Matlab](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=335823) `[Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3), [Rico Buchholz](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9B3C6F4F10E37223&pPersonenGruppe=3), [Winfried Kernbichler](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=B5E6EB46614DDFCE), [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3), [Johannes Mellak](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=2BD3C3492EF6CC2B&pPersonenGruppe=3)`
+> [Programmieren in der Physik: Matlab](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=335823) [Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3), [Rico Buchholz](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=9B3C6F4F10E37223&pPersonenGruppe=3), [Winfried Kernbichler](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=B5E6EB46614DDFCE), [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3), [Johannes Mellak](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=2BD3C3492EF6CC2B&pPersonenGruppe=3)
 
-> [Kinetic Theory in Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=334655)`[Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3)`
+> [Kinetic Theory in Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=334655) [Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3)
 - [Writeup on Fokker-Planck collision operator and Monte Carlo method](/assets/teaching/fokker_planck.pdf)
 
-> [Theoretical Plasma Physics 2](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=333021&pSpracheNr=)`[Martin Heyn](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=FD2FD76A0DD19F09)`	
+> [Theoretical Plasma Physics 2](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=333021&pSpracheNr=) [Martin Heyn](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=FD2FD76A0DD19F09)	
 
 
 
