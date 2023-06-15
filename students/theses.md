@@ -3,7 +3,6 @@ layout: newdefault
 ---
 ## Bachelor- and Master-Thesis  
 
-### Open Bachelor-, Masters-, PhD-Theses  
   
 **Topics can include, but are not limited to:**
   
@@ -17,4 +16,5 @@ layout: newdefault
 * Literature study of research for galactic position determination (R. Buchholz)  
     
 #### Current Theses
+
 #### Completed Theses
