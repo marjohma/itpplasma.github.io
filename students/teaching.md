@@ -4,7 +4,7 @@ layout: newdefault
 
 ## Winter Term (22/23 academic year)
 
-> [Programming in Physics: Advanced MATLAB](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336263) `[Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3)`
+> [Programming in Physics: Advanced MATLAB](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336263) [Patrick Lainer](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=E3578A346129DD42&pPersonenGruppe=3)
 > [Plasma Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=338120) `[Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3)`
 > [Fusion Physics](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=337418) `[Christopher Albert](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C21936EF50DC00EC&pPersonenGruppe=3)`
 > [Theoretical Plasma Physics 1}(https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336409) `[Martin Heyn](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=FD2FD76A0DD19F09)`	
