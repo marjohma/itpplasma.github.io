@@ -21,7 +21,7 @@ Our research on is on kinetic plasma theory and numerical simulations to support
 #### Research
 
 Interested in our research in fusion plasma physics?
-You can find a summary in the [research](/research "TUG ITP Plasma Research"){:style="color:Blue"} section for further details on our various research topics.https://tu4u.tugraz.at/typo3/index.php?route=%2Fmain&token=86c8af875b681f1de6eab349904459c4cd0a15a6&referrer-refresh=1686046972
+You can find a summary in the [research](/research "TUG ITP Plasma Research"){:style="color:Blue"} section for further details on our various research topics.
 
 #### Publications
 
